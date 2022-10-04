@@ -108,7 +108,7 @@ if(isset($_POST['submit']))
 
     
    $obDropboxClient->createFolder('Dropbox-Api/'.$_POST['n']);
-   header("Location:index.php?");
+   header("Location:index.php");
    die();
     
 
