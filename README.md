@@ -3,7 +3,8 @@ Infinity Refresh token
 
 Para usar esse repositorio você vai precisar utilizar os seguintes passos:
 
-Extraia o arquivo: Vendor.rar
+Extraia o arquivo: Vendor.rar.
+
 Criar uma Aplicativo no:https://www.dropbox.com/developers/apps#settings
 Liberar todas as permissões na guia :permisions
 
